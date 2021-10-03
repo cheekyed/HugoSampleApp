@@ -1,2 +1,2 @@
 # HugoSampleApp
-TEST
+TESTING
