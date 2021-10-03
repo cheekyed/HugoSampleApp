@@ -1,1 +1,2 @@
 # HugoSampleApp
+TEST
