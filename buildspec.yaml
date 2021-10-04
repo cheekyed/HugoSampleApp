@@ -18,6 +18,9 @@ phases:
     commands:
       - hugo -v
       - cp appspec.yml public
+      - ls -lart
+      - cd public
+      - ls -lart
 artifacts:
   files:
     - '**/*'
